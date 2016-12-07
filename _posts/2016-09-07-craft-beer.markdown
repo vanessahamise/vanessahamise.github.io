@@ -10,3 +10,4 @@ image-sm: https://unsplash.it/500/300?image=1003
 ---
 I'm Margaret Mngor a computing student at GRIFFITH College Cork,
 this Website is an atmosphere where i want people to join with me in a great experince of great ideas
+Am a very fun person just sit back and get to know me...
